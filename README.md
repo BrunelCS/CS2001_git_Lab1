@@ -26,3 +26,11 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+
+---
+
+1917124 | Avengers | 2019
+1917124 | The Mask | 1994
+1917124 | The Mask Of Zorro | 1998
+1917124 | Aladdin | 2019
+1917124 | The Foreigner | 2017
