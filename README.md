@@ -105,3 +105,8 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1812502 | Interstellar | 2014
+1812502 | Kill Bill: Vol. 1 | 2003
+1812502 | Seven | 1995
+1812502 | Parasite | 2019
+1812502 | Oldboy | 2003
