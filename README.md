@@ -26,8 +26,8 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
-1815685| Goodfellas | 1990
-1815685| Goodfellas | 1990
-1815685| Goodfellas | 1990
-1815685| Goodfellas | 1990
-1815685| Goodfellas | 1990
+1815685 | Goodfellas | 1990
+1815685 | Goodfellas | 1990
+1815685 | Goodfellas | 1990
+1815685 | Goodfellas | 1990
+1815685 | Goodfellas | 1990
