@@ -19,15 +19,6 @@ Lets get started.
 
 ---
 
-Student ID | Movie | Year of Release 
---- | --- | ---
-123456 | Dark Knight | 2009
-123456 | Avengers | 2001
-123456 | Jurassic Park 1 | 1992
-123456 | JP2 | 1993
-123456 | Die Hard | 1993
-
----
 
 
 1917124 | Avengers | 2019
