@@ -105,3 +105,9 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1924144 | Interstellar | 2014
+1924144 | Inception | 2010
+1924144 | Dunkirk | 2017
+1924144 | Avatar | 2009
+1924144 | The Dark Knight | 2008
+
