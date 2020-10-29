@@ -275,3 +275,8 @@ Student ID | Movie | Year of Release
 1937226 | My Sassy Girl | 2008
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
+1945170 | Perfect Blue | 1997
+1945170 | Shrek | 2001
+1945170 | Star Wars: Revenge of the Sith | 2005
+1945170 | How to Train your Dragon | 2010
+1945170 | Kung Fu Panda | 2008
