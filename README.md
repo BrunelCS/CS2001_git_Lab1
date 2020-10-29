@@ -306,3 +306,8 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
+1909044 | Dawn Of The Planet Of The Apes | 2014
+1909044 | Furious 7 | 2015
+1909044 | Monsters Inc | 2001
+1909044 | Kung Fu Panda | 2008
+1909044 | The Incredibles | 2004
