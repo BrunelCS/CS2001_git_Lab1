@@ -311,6 +311,11 @@ Student ID | Movie | Year of Release
 1945078 | Harry Potter and the Prisoner of Azkaban | 2004
 1945078 | Iron Man | 2008
 1945078 | Spider-Man: Far From Home | 2019
+1805019 | Frozen 2 | 2019
+1805019 | Star Wars | 1977
+1805019 | The Martian | 2015
+1805019 | Howl's Moving Castle | 2004
+1805019 | Pulp fiction | 1994
 1908406 | Avengers : Infinity War | 2018
 1908406 | Drive | 2011 
 1908406 | Train to Busan | 2016 
