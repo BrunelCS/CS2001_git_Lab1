@@ -484,3 +484,8 @@ Student ID | Movie | Year of Release
 1910055 | Interstellar | 2014
 1910055 | War for the Planet of the Apes | 2017
 1910055 | Avatar | 2009
+1929001 | The Room | 2003
+1929001 | A Serbian Film | 2010
+1929001 | Shrek | 2001
+1929001 | Spider-Man | 2002
+1929001 | The Lion King | 1994
