@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1807695 | UP | 2009
+1807695 | Spy Kids | 2001
+1807695 | Home Alone | 1990
+1807695 | Your Name | 2016
+1807695 | Intersteller | 2014
