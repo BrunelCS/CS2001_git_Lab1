@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1813342 | The Wolf of wall street | 2013
+1813342 | Think like a man |2012
+1813342 | The Hangover Part II | 2011
+1813342 | The twilight saga: Breaking dawn part 2 | 2012
+1813342 | Hitch | 2005
