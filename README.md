@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1935082 | Pretty Woman | 1990
+1935082 | Love & Basketball | 2000
+1935082 | Baby Boy | 2001
+1935082 | She's All That | 1999
+1935082 | Dancehall Queen | 1997
