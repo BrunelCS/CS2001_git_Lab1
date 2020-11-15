@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1924316 | Doctor strange | 2016
+1924316 | Black panther | 2018
+1924316 | The Martian | 2015
+1924316 | The Avengers | 2012
+1924316 | The Substitute 2 | 1998
