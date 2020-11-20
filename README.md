@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1611484|Inception|2010
+1611484|Interstellar|2014
+1611484|Parasite|2019
+1611484|Three Idiots|2009
+1611484|Hera Pheri|2000
 1822554| Shrek |2001
 1822554|Annabelle|2014
 1822554| Borat| 2006
