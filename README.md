@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1839819 | Scott Pilgrim vs The World | 2012
+1839819 | About Time| 2013
+1839819 | Avengers: Endgame | 2019
+1839819 | Thor Ragnorok | 2016
+1839819 | Inside Out | 2015
