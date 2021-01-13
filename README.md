@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1814295| Avatar| 2009
+1814295| Transformers| 2007
+1814295| Fast And Furious| 2015
+1814295| Avwngers| 2012
+1814295| Thor Ragnarok| 2017
 1822554| Shrek |2001
 1822554|Annabelle|2014
 1822554| Borat| 2006
