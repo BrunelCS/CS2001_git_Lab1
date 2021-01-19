@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1945479 | Avengers: Age of Ultron | 2015
+1945479 | Avengers: End Game | 2018
+1945479 | Avengers: Infinity War | 2017
+1945479 | Avengers: Civil War | 2016
+1945479 | The Wolf Of Wall Street | 2013
