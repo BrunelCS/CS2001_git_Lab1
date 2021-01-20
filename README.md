@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1903845 | The Shawshank Redemption | 1994
+1903845 | Once Upon A Time...In Hollywood | 2019
+1903845 | Django Unchained | 2012
+1903845 | Once Upon A Time...In Hollywood | 2019
+1903845 | Django Unchained | 2012
