@@ -518,3 +518,8 @@ Student ID | Movie | Year of Release
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
 SCD001	| Arrival | 2009
+1706358 | Pulp Fiction | 1994
+1706358 | Crank | 2006
+1706358 | Snatch | 2000
+1706358 | The Transporter | 2002
+1706358 | Furious 7 | 2015
